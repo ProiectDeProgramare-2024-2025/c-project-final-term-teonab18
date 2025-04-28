@@ -1,0 +1,6 @@
+Marca,Tip,NrLocuri,Disponibil,PretPeZi,Inmatriculare
+Renault,Megane,5,1,200.00,TM45TYU
+Skoda,Fabia,5,0,500.00,TM15HDJ
+Peugeot,308,5,0,200.00,TM27CAA
+Porsche,Cayenne,5,0,500.00,TM37CLG
+Honda,CRV,5,0,500.00,TM67HGJ
